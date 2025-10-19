@@ -3,8 +3,7 @@ import path from "path";
 import Handlebars from "handlebars";
 import chromium from "@sparticuz/chromium";
 import puppeteer from "puppeteer-core";
-
-import puppeteer from "puppeteer";
+// import puppeteer from "puppeteer";
 import OpenAI from "openai";
 import { parse } from "jsonc-parser";
 
